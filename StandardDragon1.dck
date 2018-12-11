@@ -1,0 +1,37 @@
+4 [GRN:263] Mountain
+4 [XLN:252] Dragonskull Summit
+4 [GRN:192] Niv-Mizzet, Parun
+4 [M19:154] Sarkhan, Fireblood
+1 [XLN:254] Field of Ruin
+3 [XLN:253] Drowned Catacomb
+4 [M19:152] Lightning Strike
+4 [M19:135] Demanding Dragon
+3 [GRN:66] Creeping Chill
+4 [M19:232] Dragon's Hoard
+4 [M19:156] Shock
+2 [DOM:149] Verix Bladewing
+2 [M19:149] Lathliss, Dragon Queen
+4 [DOM:247] Sulfur Falls
+3 [M19:218] Nicol Bolas, the Ravager
+2 [GRN:259] Watery Grave
+4 [GRN:257] Steam Vents
+4 [GRN:223] Discovery // Dispersal
+SB: 4 [GRN:244] Boros Guildgate
+SB: 2 [XLN:129] Vraska's Contempt
+SB: 2 [M19:160] Spit Flame
+SB: 3 [RIX:44] Negate
+SB: 4 [DOM:141] Seismic Shift
+SB: 2 [M19:130] Banefire
+SB: 3 [GRN:54] Sinister Sabotage
+SB: 4 [M19:158] Smelt
+SB: 4 [GRN:44] Mission Briefing
+SB: 4 [GRN:84] Ritual of Soot
+SB: 4 [M19:137] Doublecast
+SB: 1 [RIX:152] Angrath, the Flame-Chained
+SB: 4 [XLN:8] Demystify
+SB: 2 [DOM:81] Cast Down
+SB: 4 [GRN:108] Lava Coil
+SB: 3 [GRN:206] Thought Erasure
+SB: 3 [GRN:205] Thief of Sanity
+LAYOUT MAIN:(1,7)(CARD_TYPE,false,40)|([M19:232],[M19:232],[M19:232],[M19:232])([M19:135],[M19:135],[M19:135],[M19:135],[M19:149],[M19:149],[M19:218],[M19:218],[M19:218],[GRN:192],[GRN:192],[GRN:192],[GRN:192],[DOM:149],[DOM:149])([M19:156],[M19:156],[M19:156],[M19:156],[M19:152],[M19:152],[M19:152],[M19:152])([XLN:252],[XLN:252],[XLN:252],[XLN:252],[XLN:253],[XLN:253],[XLN:253],[XLN:254],[GRN:263],[GRN:263],[GRN:263],[GRN:263],[DOM:247],[DOM:247],[DOM:247],[DOM:247],[GRN:259],[GRN:259],[GRN:257],[GRN:257],[GRN:257],[GRN:257])([M19:154],[M19:154],[M19:154],[M19:154])([GRN:66],[GRN:66],[GRN:66])([GRN:223],[GRN:223],[GRN:223],[GRN:223])
+LAYOUT SIDEBOARD:(2,5)(CARD_TYPE,false,50)|([GRN:108],[GRN:108])([GRN:84],[GRN:84],[GRN:44],[GRN:44],[GRN:44],[GRN:44])([RIX:152],[GRN:54],[GRN:54])([XLN:129],[XLN:129],[M19:160],[M19:160],[GRN:54],[DOM:81],[DOM:81])([M19:158],[M19:158],[M19:158],[M19:158],[XLN:8],[XLN:8],[XLN:8],[XLN:8])([M19:130],[M19:130],[GRN:206],[GRN:206],[GRN:244],[GRN:244],[GRN:244],[GRN:244],[GRN:206])([RIX:44],[RIX:44],[RIX:44],[M19:137],[M19:137],[M19:137],[M19:137])([GRN:205],[GRN:205],[GRN:205],[DOM:141],[DOM:141],[DOM:141],[DOM:141])()([GRN:84],[GRN:84],[GRN:108],[GRN:108])

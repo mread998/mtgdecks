@@ -1,0 +1,35 @@
+4 [GRN:244] Boros Guildgate
+4 [GRN:263] Mountain
+2 [XLN:129] Vraska's Contempt
+2 [M19:160] Spit Flame
+4 [XLN:252] Dragonskull Summit
+4 [GRN:192] Niv-Mizzet, Parun
+4 [M19:154] Sarkhan, Fireblood
+1 [XLN:254] Field of Ruin
+3 [XLN:253] Drowned Catacomb
+4 [M19:135] Demanding Dragon
+1 [GRN:54] Sinister Sabotage
+4 [M19:232] Dragon's Hoard
+2 [GRN:84] Ritual of Soot
+2 [DOM:149] Verix Bladewing
+2 [M19:149] Lathliss, Dragon Queen
+4 [DOM:247] Sulfur Falls
+3 [M19:218] Nicol Bolas, the Ravager
+4 [XLN:8] Demystify
+2 [DOM:81] Cast Down
+2 [GRN:108] Lava Coil
+2 [GRN:259] Watery Grave
+SB: 2 [GRN:84] Ritual of Soot
+SB: 4 [M19:137] Doublecast
+SB: 1 [RIX:152] Angrath, the Flame-Chained
+SB: 3 [RIX:44] Negate
+SB: 2 [GRN:108] Lava Coil
+SB: 3 [GRN:206] Thought Erasure
+SB: 4 [DOM:141] Seismic Shift
+SB: 2 [M19:130] Banefire
+SB: 3 [GRN:205] Thief of Sanity
+SB: 2 [GRN:54] Sinister Sabotage
+SB: 4 [M19:158] Smelt
+SB: 4 [GRN:257] Steam Vents
+LAYOUT MAIN:(1,6)(CARD_TYPE,false,40)|([M19:232],[M19:232],[M19:232],[M19:232])([M19:135],[M19:135],[M19:135],[M19:135],[M19:149],[M19:149],[M19:218],[M19:218],[M19:218],[GRN:192],[GRN:192],[GRN:192],[GRN:192],[DOM:149],[DOM:149])([DOM:81],[DOM:81],[M19:160],[M19:160],[XLN:129],[XLN:129],[GRN:54],[XLN:8],[XLN:8],[XLN:8],[XLN:8])([XLN:252],[XLN:252],[XLN:252],[XLN:252],[XLN:253],[XLN:253],[XLN:253],[XLN:254],[GRN:263],[GRN:263],[GRN:263],[GRN:263],[DOM:247],[DOM:247],[DOM:247],[DOM:247],[GRN:259],[GRN:259],[GRN:244],[GRN:244],[GRN:244],[GRN:244])([M19:154],[M19:154],[M19:154],[M19:154])([GRN:108],[GRN:108],[GRN:84],[GRN:84])
+LAYOUT SIDEBOARD:(2,5)(CARD_TYPE,false,50)|([GRN:108],[GRN:108])([GRN:84],[GRN:84])([RIX:152],[GRN:54],[GRN:54])()([M19:158],[M19:158],[M19:158],[M19:158])([M19:130],[M19:130],[GRN:206],[GRN:206],[GRN:206])([RIX:44],[RIX:44],[RIX:44],[M19:137],[M19:137],[M19:137],[M19:137])([GRN:205],[GRN:205],[GRN:205],[DOM:141],[DOM:141],[DOM:141],[DOM:141])([GRN:257],[GRN:257],[GRN:257],[GRN:257])()

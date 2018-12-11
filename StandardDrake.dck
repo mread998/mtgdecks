@@ -1,0 +1,22 @@
+4 [GRN:154] Beacon Bolt
+7 [GRN:263] Mountain
+4 [GRN:163] Crackling Drake
+8 [XLN:267] Island
+2 [GRN:171] Firemind's Research
+4 [GRN:34] Dazzling Lights
+4 [M19:152] Lightning Strike
+1 [RIX:189] Highland Lake
+4 [M19:216] Enigma Drake
+4 [RIX:186] Evolving Wilds
+4 [RIX:110] Reckless Rage
+4 [GRN:108] Lava Coil
+2 [DOM:40] Academy Drake
+4 [GRN:179] Ionize
+4 [DOM:60] Opt
+SB: 4 [XLN:67] Perilous Voyage
+SB: 4 [XLN:145] Firecannon Blast
+SB: 4 [M19:60] Metamorphic Alteration
+SB: 4 [RIX:92] Blood Sun
+SB: 4 [GRN:267] Precision Bolt
+LAYOUT MAIN:(1,5)(CARD_TYPE,false,40)|([M19:216],[M19:216],[GRN:163],[GRN:163],[DOM:40],[DOM:40],[M19:216],[M19:216],[GRN:163],[GRN:163])([GRN:171],[GRN:171])([M19:152],[M19:152],[M19:152],[M19:152],[GRN:179],[GRN:179],[GRN:179],[GRN:179],[GRN:34],[GRN:34],[GRN:34],[GRN:34],[RIX:110],[RIX:110],[RIX:110],[RIX:110],[DOM:60],[DOM:60],[DOM:60],[DOM:60])([XLN:267],[XLN:267],[XLN:267],[XLN:267],[XLN:267],[XLN:267],[XLN:267],[XLN:267],[GRN:263],[GRN:263],[GRN:263],[GRN:263],[GRN:263],[GRN:263],[GRN:263],[RIX:186],[RIX:186],[RIX:186],[RIX:186],[RIX:189])([GRN:108],[GRN:108],[GRN:108],[GRN:108],[GRN:154],[GRN:154],[GRN:154],[GRN:154])
+LAYOUT SIDEBOARD:(2,3)(CARD_TYPE,false,50)|([RIX:92],[RIX:92],[RIX:92],[RIX:92])([M19:60],[M19:60],[M19:60],[M19:60])([XLN:67],[XLN:67],[XLN:67],[XLN:67])([XLN:145],[XLN:145],[XLN:145],[XLN:145])([GRN:267],[GRN:267],[GRN:267],[GRN:267])()
