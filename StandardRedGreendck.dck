@@ -1,0 +1,25 @@
+2 [XLN:206] Shapers' Sanctuary
+4 [XLN:256] Rootbound Crag
+4 [XLN:279] Forest
+4 [RIX:168] Raging Regisaur
+2 [XLN:175] Ancient Brontodon
+3 [DOM:141] Seismic Shift
+3 [M19:162] Tectonic Rift
+4 [XLN:275] Mountain
+2 [DOM:142] Shivan Fire
+2 [DOM:153] Adventurous Impulse
+2 [RIX:139] Naturalize
+4 [DOM:195] Grand Warlord Radha
+2 [DOM:151] Warlord's Fury
+2 [M19:156] Shock
+4 [M19:215] Draconic Disciple
+4 [DOM:279] Timber Gorge
+4 [DOM:246] Memorial to War
+2 [RIX:130] Ghalta, Primal Hunger
+4 [DOM:245] Memorial to Unity
+2 [GRN:102] Goblin Banneret
+SB: 1 [XLN:279] Forest
+SB: 1 [XLN:275] Mountain
+SB: 2 [RIX:139] Naturalize
+LAYOUT MAIN:(1,5)(CARD_TYPE,false,40)|([DOM:195],[DOM:195],[DOM:195],[DOM:195],[RIX:168],[RIX:168],[RIX:168],[RIX:168],[M19:215],[M19:215],[M19:215],[M19:215],[RIX:130],[RIX:130],[XLN:175],[XLN:175],[GRN:102],[GRN:102])([XLN:206],[XLN:206])([M19:156],[M19:156],[DOM:142],[DOM:142],[RIX:139],[RIX:139])([XLN:279],[XLN:279],[XLN:279],[XLN:279],[XLN:275],[XLN:275],[XLN:275],[XLN:275],[DOM:279],[DOM:279],[DOM:279],[DOM:279],[DOM:246],[DOM:246],[DOM:246],[DOM:246],[DOM:245],[DOM:245],[DOM:245],[DOM:245],[XLN:256],[XLN:256],[XLN:256],[XLN:256])([DOM:153],[DOM:153],[DOM:151],[DOM:151],[DOM:141],[DOM:141],[DOM:141],[M19:162],[M19:162],[M19:162])
+LAYOUT SIDEBOARD:(2,3)(CARD_TYPE,false,50)|([XLN:275])([XLN:279])()()()([RIX:139],[RIX:139])

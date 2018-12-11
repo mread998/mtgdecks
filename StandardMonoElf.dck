@@ -1,0 +1,16 @@
+4 [XLN:206] Shapers' Sanctuary
+4 [GRN:141] Pelt Collector
+4 [M19:191] Oakenform
+22 [XLN:279] Forest
+2 [DOM:176] Pierce the Sky
+4 [GS1:32] Hardened-Scale Armor
+2 [M19:184] Gift of Paradise
+4 [M19:179] Elvish Clancaller
+4 [RIX:139] Naturalize
+2 [DOM:161] Gaea's Blessing
+4 [M19:177] Druid of the Cowl
+4 [DOM:182] Steel Leaf Champion
+SB: 4 [RIX:143] Plummet
+SB: 2 [XLN:279] Forest
+LAYOUT MAIN:(1,5)(CARD_TYPE,false,40)|([GRN:141],[GRN:141],[GRN:141],[GRN:141],[M19:177],[M19:177],[M19:177],[M19:177],[M19:179],[M19:179],[M19:179],[M19:179],[DOM:182],[DOM:182],[DOM:182],[DOM:182])([XLN:206],[XLN:206],[XLN:206],[XLN:206],[GS1:32],[GS1:32],[GS1:32],[GS1:32],[M19:184],[M19:184],[M19:191],[M19:191],[M19:191],[M19:191])([RIX:139],[RIX:139],[RIX:139],[RIX:139],[DOM:176],[DOM:176])([XLN:279],[XLN:279],[XLN:279],[XLN:279],[XLN:279],[XLN:279],[XLN:279],[XLN:279],[XLN:279],[XLN:279],[XLN:279],[XLN:279],[XLN:279],[XLN:279],[XLN:279],[XLN:279],[XLN:279],[XLN:279],[XLN:279],[XLN:279],[XLN:279],[XLN:279])([DOM:161],[DOM:161])
+LAYOUT SIDEBOARD:(2,2)(CARD_TYPE,false,50)|([RIX:143],[RIX:143],[RIX:143],[RIX:143])()()([XLN:279],[XLN:279])
